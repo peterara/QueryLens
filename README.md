@@ -4,7 +4,6 @@ Transform your natural language questions into SQL queries with our friendly AI 
 
 ## 🚀 Features
 
-- **Real SQL Generation**: Uses Claude 3.5 Sonnet via OpenRouter
 - **Professional UI**: Clean, modern interface with smooth animations
 - **Error Handling**: Helpful error messages and loading states
 - **Copy to Clipboard**: Easy copying of generated SQL queries
