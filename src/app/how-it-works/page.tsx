@@ -31,8 +31,8 @@ export default function HowItWorksPage() {
                   Ask Your Question
                 </h3>
                 <p className="text-gray-600 mb-6 leading-relaxed">
-                  Type your question in plain English, just like you'd ask a
-                  colleague. No need to worry about SQL syntax!
+                  Type your question in plain English, just like you&apos;d ask
+                  a colleague. No need to worry about SQL syntax!
                 </p>
                 <div className="bg-gray-50 p-4 rounded-lg">
                   <p className="text-sm text-gray-700 font-medium">Example:</p>
@@ -87,7 +87,7 @@ export default function HowItWorksPage() {
                 </h3>
                 <p className="text-gray-600 mb-6 leading-relaxed">
                   Copy the generated SQL and use it in your favorite database
-                  tool. It's ready to run immediately!
+                  tool. It&apos;s ready to run immediately!
                 </p>
                 <div className="bg-gray-900 p-4 rounded-lg">
                   <p className="text-green-400 font-mono text-sm">
@@ -210,7 +210,7 @@ export default function HowItWorksPage() {
                   Secure & Private
                 </h3>
                 <p className="text-gray-600">
-                  Your queries stay private. We don't store your data or
+                  Your queries stay private. We don&apos;t store your data or
                   questions for maximum security.
                 </p>
               </div>
